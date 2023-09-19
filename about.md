@@ -5,14 +5,18 @@ permalink: /about/
 ---
 
 ## 关于我
-你好，我是goldstine。
+你好，我是xiaoyu。
 
-初出茅庐的programmer、[知乎](https://www.zhihu.com/people/goldstine)潜水。
 
-[个人技术公众号](https://mp.weixin.qq.com/s?__biz=MzkwODI4ODQ0OA==&mid=2247484023&idx=1&sn=ac0cddc56b4cc939777e99a9e1dcc3dc&chksm=c0cd0ad8f7ba83cea1d6187a72b9bececb81be3349011cf621510ab7c5414549d1df2f853b61&token=2017477247&lang=zh_CN#rd)分享编程学习路线、编程学习资源，记录技术成长，欢迎扫码添加：
-
-![公众号二维码](https://cdn.jsdelivr.net/gh/goldstine/goldstine.github.io/images/weixin.jpg)
-
+```
+韶华尽，山盟废纸做；
+空余泪，海誓荒唐言；
+紫禁琼河姻缘系，雍王宫中定终身；
+已做尾生徒抱柱，心为磐石无转移；
+梧桐雨，离情叶，忠情却被无情误；
+垂泪已千阶，三更醒复眠；
+三万里前程，苦私情，无人问。
+```
 ```
 梦后楼台高锁，酒醒帘幕低垂
 去年春恨却来时
